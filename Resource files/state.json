@@ -1,0 +1,2692 @@
+{
+    "Friday": {
+        "courses": [
+            [
+                "Math",
+                {
+                    "name": "Math",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Friday",
+                            "endTime": "10:00",
+                            "startTime": "09:00"
+                        },
+                        {
+                            "day": "Friday",
+                            "endTime": "11:00",
+                            "startTime": "10:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Geometry",
+                {
+                    "name": "Geometry",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Friday",
+                            "endTime": "13:00",
+                            "startTime": "12:00"
+                        },
+                        {
+                            "day": "Friday",
+                            "endTime": "14:00",
+                            "startTime": "13:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Physics",
+                {
+                    "name": "Physics",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Friday",
+                            "endTime": "10:00",
+                            "startTime": "09:00"
+                        },
+                        {
+                            "day": "Friday",
+                            "endTime": "15:00",
+                            "startTime": "14:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Russian",
+                {
+                    "name": "Russian",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Friday",
+                            "endTime": "11:00",
+                            "startTime": "10:00"
+                        },
+                        {
+                            "day": "Friday",
+                            "endTime": "13:00",
+                            "startTime": "12:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Programming",
+                {
+                    "name": "Programming",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Friday",
+                            "endTime": "12:00",
+                            "startTime": "11:00"
+                        },
+                        {
+                            "day": "Friday",
+                            "endTime": "16:00",
+                            "startTime": "15:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "English",
+                {
+                    "name": "English",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Friday",
+                            "endTime": "14:00",
+                            "startTime": "13:00"
+                        },
+                        {
+                            "day": "Friday",
+                            "endTime": "15:00",
+                            "startTime": "14:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Biology",
+                {
+                    "name": "Biology",
+                    "preferredTimeSlots": []
+                }
+            ],
+            [
+                "Chemistry",
+                {
+                    "name": "Chemistry",
+                    "preferredTimeSlots": []
+                }
+            ]
+        ],
+        "instructors": [
+            {
+                "availability": [
+                    {
+                        "day": "Friday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Friday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Friday",
+                        "endTime": "14:00",
+                        "startTime": "13:00"
+                    }
+                ],
+                "name": "Johnson",
+                "preferredCourses": [
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Programming",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Friday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Friday",
+                        "endTime": "15:00",
+                        "startTime": "14:00"
+                    }
+                ],
+                "name": "Brady",
+                "preferredCourses": []
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Friday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Friday",
+                        "endTime": "12:00",
+                        "startTime": "11:00"
+                    },
+                    {
+                        "day": "Friday",
+                        "endTime": "13:00",
+                        "startTime": "12:00"
+                    },
+                    {
+                        "day": "Friday",
+                        "endTime": "15:00",
+                        "startTime": "14:00"
+                    }
+                ],
+                "name": "James",
+                "preferredCourses": [
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chemistry",
+                        "preferredTimeSlots": []
+                    },
+                    {
+                        "name": "Biology",
+                        "preferredTimeSlots": []
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Friday",
+                        "endTime": "12:00",
+                        "startTime": "11:00"
+                    },
+                    {
+                        "day": "Friday",
+                        "endTime": "14:00",
+                        "startTime": "13:00"
+                    }
+                ],
+                "name": "George",
+                "preferredCourses": [
+                    {
+                        "name": "Programming",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "English",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Friday",
+                        "endTime": "13:00",
+                        "startTime": "12:00"
+                    },
+                    {
+                        "day": "Friday",
+                        "endTime": "15:00",
+                        "startTime": "14:00"
+                    }
+                ],
+                "name": "Samantha",
+                "preferredCourses": [
+                    {
+                        "name": "Geometry",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Friday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Friday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Friday",
+                        "endTime": "12:00",
+                        "startTime": "11:00"
+                    }
+                ],
+                "name": "Louisa",
+                "preferredCourses": [
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "English",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Programming",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Geometry",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Friday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            },
+                            {
+                                "day": "Friday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Biology",
+                        "preferredTimeSlots": []
+                    }
+                ]
+            }
+        ],
+        "timeSlots": [
+            {
+                "day": "Friday",
+                "endTime": "10:00",
+                "startTime": "09:00"
+            },
+            {
+                "day": "Friday",
+                "endTime": "11:00",
+                "startTime": "10:00"
+            },
+            {
+                "day": "Friday",
+                "endTime": "12:00",
+                "startTime": "11:00"
+            },
+            {
+                "day": "Friday",
+                "endTime": "13:00",
+                "startTime": "12:00"
+            },
+            {
+                "day": "Friday",
+                "endTime": "14:00",
+                "startTime": "13:00"
+            },
+            {
+                "day": "Friday",
+                "endTime": "15:00",
+                "startTime": "14:00"
+            }
+        ]
+    },
+    "Monday": {
+        "courses": [
+            [
+                "Math",
+                {
+                    "name": "Math",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Monday",
+                            "endTime": "19:00",
+                            "startTime": "18:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Geometry",
+                {
+                    "name": "Geometry",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Monday",
+                            "endTime": "11:00",
+                            "startTime": "10:00"
+                        },
+                        {
+                            "day": "Monday",
+                            "endTime": "14:00",
+                            "startTime": "13:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Physics",
+                {
+                    "name": "Physics",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Monday",
+                            "endTime": "10:00",
+                            "startTime": "09:00"
+                        },
+                        {
+                            "day": "Monday",
+                            "endTime": "15:00",
+                            "startTime": "14:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Russian",
+                {
+                    "name": "Russian",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Monday",
+                            "endTime": "11:00",
+                            "startTime": "10:00"
+                        },
+                        {
+                            "day": "Monday",
+                            "endTime": "13:00",
+                            "startTime": "12:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Programming",
+                {
+                    "name": "Programming",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Monday",
+                            "endTime": "13:00",
+                            "startTime": "12:00"
+                        },
+                        {
+                            "day": "Monday",
+                            "endTime": "16:00",
+                            "startTime": "15:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "English",
+                {
+                    "name": "English",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Monday",
+                            "endTime": "14:00",
+                            "startTime": "13:00"
+                        },
+                        {
+                            "day": "Monday",
+                            "endTime": "16:00",
+                            "startTime": "15:00"
+                        }
+                    ]
+                }
+            ]
+        ],
+        "instructors": [
+            {
+                "availability": [
+                    {
+                        "day": "Monday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Monday",
+                        "endTime": "13:00",
+                        "startTime": "12:00"
+                    }
+                ],
+                "name": "Johnson",
+                "preferredCourses": [
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "19:00",
+                                "startTime": "18:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Programming",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            },
+                            {
+                                "day": "Monday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Monday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Monday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Monday",
+                        "endTime": "16:00",
+                        "startTime": "15:00"
+                    }
+                ],
+                "name": "Brady",
+                "preferredCourses": [
+                    {
+                        "name": "Geometry",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Monday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Monday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Monday",
+                        "endTime": "12:00",
+                        "startTime": "11:00"
+                    },
+                    {
+                        "day": "Monday",
+                        "endTime": "14:00",
+                        "startTime": "13:00"
+                    }
+                ],
+                "name": "James",
+                "preferredCourses": [
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "19:00",
+                                "startTime": "18:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Monday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Monday",
+                        "endTime": "13:00",
+                        "startTime": "12:00"
+                    },
+                    {
+                        "day": "Monday",
+                        "endTime": "16:00",
+                        "startTime": "15:00"
+                    }
+                ],
+                "name": "George",
+                "preferredCourses": [
+                    {
+                        "name": "Programming",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            },
+                            {
+                                "day": "Monday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "English",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            },
+                            {
+                                "day": "Monday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Monday",
+                        "endTime": "14:00",
+                        "startTime": "13:00"
+                    },
+                    {
+                        "day": "Monday",
+                        "endTime": "15:00",
+                        "startTime": "14:00"
+                    }
+                ],
+                "name": "Samantha",
+                "preferredCourses": [
+                    {
+                        "name": "Geometry",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Monday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Monday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Monday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Monday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Monday",
+                        "endTime": "16:00",
+                        "startTime": "15:00"
+                    }
+                ],
+                "name": "Louisa",
+                "preferredCourses": [
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Monday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "English",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Monday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            },
+                            {
+                                "day": "Monday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "timeSlots": [
+            {
+                "day": "Monday",
+                "endTime": "10:00",
+                "startTime": "09:00"
+            },
+            {
+                "day": "Monday",
+                "endTime": "11:00",
+                "startTime": "10:00"
+            },
+            {
+                "day": "Monday",
+                "endTime": "12:00",
+                "startTime": "11:00"
+            },
+            {
+                "day": "Monday",
+                "endTime": "13:00",
+                "startTime": "12:00"
+            },
+            {
+                "day": "Monday",
+                "endTime": "14:00",
+                "startTime": "13:00"
+            },
+            {
+                "day": "Monday",
+                "endTime": "15:00",
+                "startTime": "14:00"
+            },
+            {
+                "day": "Monday",
+                "endTime": "16:00",
+                "startTime": "15:00"
+            }
+        ]
+    },
+    "Thursday": {
+        "courses": [
+            [
+                "Math",
+                {
+                    "name": "Math",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Thursday",
+                            "endTime": "10:00",
+                            "startTime": "09:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Geometry",
+                {
+                    "name": "Geometry",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Thursday",
+                            "endTime": "11:00",
+                            "startTime": "10:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Physics",
+                {
+                    "name": "Physics",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Thursday",
+                            "endTime": "13:00",
+                            "startTime": "12:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Russian",
+                {
+                    "name": "Russian",
+                    "preferredTimeSlots": []
+                }
+            ]
+        ],
+        "instructors": [
+            {
+                "availability": [
+                    {
+                        "day": "Thursday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Thursday",
+                        "endTime": "12:00",
+                        "startTime": "11:00"
+                    }
+                ],
+                "name": "Johnson",
+                "preferredCourses": [
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Thursday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": []
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Thursday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Thursday",
+                        "endTime": "13:00",
+                        "startTime": "12:00"
+                    }
+                ],
+                "name": "Brady",
+                "preferredCourses": [
+                    {
+                        "name": "Geometry",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Thursday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Thursday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Thursday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Thursday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    }
+                ],
+                "name": "James",
+                "preferredCourses": [
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Thursday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": []
+                    }
+                ]
+            }
+        ],
+        "timeSlots": [
+            {
+                "day": "Thursday",
+                "endTime": "10:00",
+                "startTime": "09:00"
+            },
+            {
+                "day": "Thursday",
+                "endTime": "11:00",
+                "startTime": "10:00"
+            },
+            {
+                "day": "Thursday",
+                "endTime": "12:00",
+                "startTime": "11:00"
+            },
+            {
+                "day": "Thursday",
+                "endTime": "13:00",
+                "startTime": "12:00"
+            }
+        ]
+    },
+    "Tuesday": {
+        "courses": [
+            [
+                "Math",
+                {
+                    "name": "Math",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Tuesday",
+                            "endTime": "10:00",
+                            "startTime": "09:00"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "endTime": "11:00",
+                            "startTime": "10:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Geometry",
+                {
+                    "name": "Geometry",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Tuesday",
+                            "endTime": "12:00",
+                            "startTime": "11:00"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "endTime": "13:00",
+                            "startTime": "12:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Physics",
+                {
+                    "name": "Physics",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Tuesday",
+                            "endTime": "14:00",
+                            "startTime": "13:00"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "endTime": "15:00",
+                            "startTime": "14:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Russian",
+                {
+                    "name": "Russian",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Tuesday",
+                            "endTime": "10:00",
+                            "startTime": "09:00"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "endTime": "11:00",
+                            "startTime": "10:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Programming",
+                {
+                    "name": "Programming",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Tuesday",
+                            "endTime": "16:00",
+                            "startTime": "15:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "English",
+                {
+                    "name": "English",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Tuesday",
+                            "endTime": "12:00",
+                            "startTime": "11:00"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "endTime": "13:00",
+                            "startTime": "12:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Biology",
+                {
+                    "name": "Biology",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Tuesday",
+                            "endTime": "15:00",
+                            "startTime": "14:00"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "endTime": "16:00",
+                            "startTime": "15:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Chemistry",
+                {
+                    "name": "Chemistry",
+                    "preferredTimeSlots": []
+                }
+            ]
+        ],
+        "instructors": [
+            {
+                "availability": [
+                    {
+                        "day": "Tuesday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "endTime": "13:00",
+                        "startTime": "12:00"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "endTime": "16:00",
+                        "startTime": "15:00"
+                    }
+                ],
+                "name": "Johnson",
+                "preferredCourses": [
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Programming",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Tuesday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "endTime": "16:00",
+                        "startTime": "15:00"
+                    }
+                ],
+                "name": "Brady",
+                "preferredCourses": [
+                    {
+                        "name": "Geometry",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Tuesday",
+                        "endTime": "12:00",
+                        "startTime": "11:00"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "endTime": "14:00",
+                        "startTime": "13:00"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "endTime": "16:00",
+                        "startTime": "15:00"
+                    }
+                ],
+                "name": "James",
+                "preferredCourses": [
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Tuesday",
+                        "endTime": "13:00",
+                        "startTime": "12:00"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "endTime": "16:00",
+                        "startTime": "15:00"
+                    }
+                ],
+                "name": "George",
+                "preferredCourses": [
+                    {
+                        "name": "Programming",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "English",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Tuesday",
+                        "endTime": "14:00",
+                        "startTime": "13:00"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "endTime": "15:00",
+                        "startTime": "14:00"
+                    }
+                ],
+                "name": "Samantha",
+                "preferredCourses": [
+                    {
+                        "name": "Geometry",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Tuesday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "endTime": "16:00",
+                        "startTime": "15:00"
+                    }
+                ],
+                "name": "Louisa",
+                "preferredCourses": [
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "English",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Tuesday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "endTime": "15:00",
+                        "startTime": "14:00"
+                    }
+                ],
+                "name": "Emily",
+                "preferredCourses": [
+                    {
+                        "name": "Physics",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "English",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Tuesday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "endTime": "14:00",
+                        "startTime": "13:00"
+                    }
+                ],
+                "name": "Michael",
+                "preferredCourses": [
+                    {
+                        "name": "Biology",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Tuesday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            },
+                            {
+                                "day": "Tuesday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chemistry",
+                        "preferredTimeSlots": []
+                    }
+                ]
+            }
+        ],
+        "timeSlots": [
+            {
+                "day": "Tuesday",
+                "endTime": "10:00",
+                "startTime": "09:00"
+            },
+            {
+                "day": "Tuesday",
+                "endTime": "11:00",
+                "startTime": "10:00"
+            },
+            {
+                "day": "Tuesday",
+                "endTime": "12:00",
+                "startTime": "11:00"
+            },
+            {
+                "day": "Tuesday",
+                "endTime": "13:00",
+                "startTime": "12:00"
+            },
+            {
+                "day": "Tuesday",
+                "endTime": "14:00",
+                "startTime": "13:00"
+            },
+            {
+                "day": "Tuesday",
+                "endTime": "15:00",
+                "startTime": "14:00"
+            },
+            {
+                "day": "Tuesday",
+                "endTime": "16:00",
+                "startTime": "15:00"
+            }
+        ]
+    },
+    "Wednesday": {
+        "courses": [
+            [
+                "Math",
+                {
+                    "name": "Math",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Wednesday",
+                            "endTime": "10:00",
+                            "startTime": "09:00"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "endTime": "12:00",
+                            "startTime": "11:00"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "endTime": "14:00",
+                            "startTime": "13:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Geometry",
+                {
+                    "name": "Geometry",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Wednesday",
+                            "endTime": "11:00",
+                            "startTime": "10:00"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "endTime": "13:00",
+                            "startTime": "12:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Physics",
+                {
+                    "name": "Physics",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Wednesday",
+                            "endTime": "10:00",
+                            "startTime": "09:00"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "endTime": "15:00",
+                            "startTime": "14:00"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "endTime": "17:00",
+                            "startTime": "16:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Russian",
+                {
+                    "name": "Russian",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Wednesday",
+                            "endTime": "10:00",
+                            "startTime": "09:00"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "endTime": "11:00",
+                            "startTime": "10:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Programming",
+                {
+                    "name": "Programming",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Wednesday",
+                            "endTime": "12:00",
+                            "startTime": "11:00"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "endTime": "16:00",
+                            "startTime": "15:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "English",
+                {
+                    "name": "English",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Wednesday",
+                            "endTime": "13:00",
+                            "startTime": "12:00"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "endTime": "16:00",
+                            "startTime": "15:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Biology",
+                {
+                    "name": "Biology",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Wednesday",
+                            "endTime": "14:00",
+                            "startTime": "13:00"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "endTime": "15:00",
+                            "startTime": "14:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Chemistry",
+                {
+                    "name": "Chemistry",
+                    "preferredTimeSlots": []
+                }
+            ],
+            [
+                "History",
+                {
+                    "name": "History",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Wednesday",
+                            "endTime": "11:00",
+                            "startTime": "10:00"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "endTime": "17:00",
+                            "startTime": "16:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Art",
+                {
+                    "name": "Art",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Wednesday",
+                            "endTime": "10:00",
+                            "startTime": "09:00"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "endTime": "14:00",
+                            "startTime": "13:00"
+                        }
+                    ]
+                }
+            ],
+            [
+                "Geography",
+                {
+                    "name": "Geography",
+                    "preferredTimeSlots": [
+                        {
+                            "day": "Wednesday",
+                            "endTime": "12:00",
+                            "startTime": "11:00"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "endTime": "16:00",
+                            "startTime": "15:00"
+                        }
+                    ]
+                }
+            ]
+        ],
+        "instructors": [
+            {
+                "availability": [
+                    {
+                        "day": "Wednesday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "16:00",
+                        "startTime": "15:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "17:00",
+                        "startTime": "16:00"
+                    }
+                ],
+                "name": "Johnson",
+                "preferredCourses": [
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Programming",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Biology",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Wednesday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "12:00",
+                        "startTime": "11:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "15:00",
+                        "startTime": "14:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "17:00",
+                        "startTime": "16:00"
+                    }
+                ],
+                "name": "Brady",
+                "preferredCourses": [
+                    {
+                        "name": "Geometry",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "17:00",
+                                "startTime": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "English",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Wednesday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "13:00",
+                        "startTime": "12:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "14:00",
+                        "startTime": "13:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "16:00",
+                        "startTime": "15:00"
+                    }
+                ],
+                "name": "James",
+                "preferredCourses": [
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chemistry",
+                        "preferredTimeSlots": []
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Wednesday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "12:00",
+                        "startTime": "11:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "14:00",
+                        "startTime": "13:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "17:00",
+                        "startTime": "16:00"
+                    }
+                ],
+                "name": "George",
+                "preferredCourses": [
+                    {
+                        "name": "Programming",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "English",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "History",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "17:00",
+                                "startTime": "16:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Wednesday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "13:00",
+                        "startTime": "12:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "15:00",
+                        "startTime": "14:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "17:00",
+                        "startTime": "16:00"
+                    }
+                ],
+                "name": "Samantha",
+                "preferredCourses": [
+                    {
+                        "name": "Geometry",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "17:00",
+                                "startTime": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Art",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Wednesday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "12:00",
+                        "startTime": "11:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "14:00",
+                        "startTime": "13:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "16:00",
+                        "startTime": "15:00"
+                    }
+                ],
+                "name": "Louisa",
+                "preferredCourses": [
+                    {
+                        "name": "Russian",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "English",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Geography",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Wednesday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "13:00",
+                        "startTime": "12:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "15:00",
+                        "startTime": "14:00"
+                    }
+                ],
+                "name": "Emily",
+                "preferredCourses": [
+                    {
+                        "name": "Physics",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "17:00",
+                                "startTime": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "English",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "13:00",
+                                "startTime": "12:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "History",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "17:00",
+                                "startTime": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Art",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Wednesday",
+                        "endTime": "11:00",
+                        "startTime": "10:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "12:00",
+                        "startTime": "11:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "14:00",
+                        "startTime": "13:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "16:00",
+                        "startTime": "15:00"
+                    }
+                ],
+                "name": "Michael",
+                "preferredCourses": [
+                    {
+                        "name": "Biology",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "15:00",
+                                "startTime": "14:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chemistry",
+                        "preferredTimeSlots": []
+                    },
+                    {
+                        "name": "Math",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Geography",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "availability": [
+                    {
+                        "day": "Wednesday",
+                        "endTime": "10:00",
+                        "startTime": "09:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "12:00",
+                        "startTime": "11:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "15:00",
+                        "startTime": "14:00"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "endTime": "17:00",
+                        "startTime": "16:00"
+                    }
+                ],
+                "name": "Sarah",
+                "preferredCourses": [
+                    {
+                        "name": "History",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "11:00",
+                                "startTime": "10:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "17:00",
+                                "startTime": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Art",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "10:00",
+                                "startTime": "09:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "14:00",
+                                "startTime": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Geography",
+                        "preferredTimeSlots": [
+                            {
+                                "day": "Wednesday",
+                                "endTime": "12:00",
+                                "startTime": "11:00"
+                            },
+                            {
+                                "day": "Wednesday",
+                                "endTime": "16:00",
+                                "startTime": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chemistry",
+                        "preferredTimeSlots": []
+                    }
+                ]
+            }
+        ],
+        "timeSlots": [
+            {
+                "day": "Wednesday",
+                "endTime": "10:00",
+                "startTime": "09:00"
+            },
+            {
+                "day": "Wednesday",
+                "endTime": "11:00",
+                "startTime": "10:00"
+            },
+            {
+                "day": "Wednesday",
+                "endTime": "12:00",
+                "startTime": "11:00"
+            },
+            {
+                "day": "Wednesday",
+                "endTime": "13:00",
+                "startTime": "12:00"
+            },
+            {
+                "day": "Wednesday",
+                "endTime": "14:00",
+                "startTime": "13:00"
+            },
+            {
+                "day": "Wednesday",
+                "endTime": "15:00",
+                "startTime": "14:00"
+            },
+            {
+                "day": "Wednesday",
+                "endTime": "16:00",
+                "startTime": "15:00"
+            },
+            {
+                "day": "Wednesday",
+                "endTime": "17:00",
+                "startTime": "16:00"
+            }
+        ]
+    }
+}

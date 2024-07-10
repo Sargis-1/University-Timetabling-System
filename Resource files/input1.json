@@ -1,0 +1,701 @@
+{
+  "Monday": {
+    "timeSlots": [
+      {
+        "startTime": "09:00",
+        "endTime": "16:00"
+      }
+    ],
+    "instructors": [
+      {
+        "name": "Johnson",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "13:00"
+          },
+          {
+            "startTime": "14:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": [ "Math", "Programming" ]
+      },
+      {
+        "name": "Brady",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "12:00"
+          },
+          {
+            "startTime": "13:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": []
+      },
+      {
+        "name": "James",
+        "availability": [
+          {
+            "startTime": "10:00",
+            "endTime": "14:00"
+          }
+        ],
+        "preferredCourses": [ "Math", "Russian", "Physics", "Biology" ]
+      },
+      {
+        "name": "George",
+        "availability": [
+          {
+            "startTime": "11:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": [ "Programming", "English" ]
+      },
+      {
+        "name": "Samantha",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "11:00"
+          },
+          {
+            "startTime": "12:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": [ "Geometry", "Physics", "Russian" ]
+      },
+      {
+        "name": "Louisa",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "11:00"
+          },
+          {
+            "startTime": "12:00",
+            "endTime": "15:00"
+          }
+        ],
+        "preferredCourses": [ "Russian", "English", "Math" ]
+      }
+    ],
+    "courses": [
+      {
+        "name": "Math",
+        "preferredTimeSlots": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:00"
+          },
+          {
+            "startTime": "10:00",
+            "endTime": "11:00"
+          }
+        ]
+      },
+      {
+        "name": "Geometry",
+        "preferredTimeSlots": [
+          {
+            "startTime": "11:00",
+            "endTime": "12:00"
+          },
+          {
+            "startTime": "12:00",
+            "endTime": "13:00"
+          }
+        ]
+      },
+      {
+        "name": "Physics",
+        "preferredTimeSlots": [
+          {
+            "startTime": "13:00",
+            "endTime": "14:00"
+          },
+          {
+            "startTime": "14:00",
+            "endTime": "15:00"
+          }
+        ]
+      },
+      {
+        "name": "Programming",
+        "preferredTimeSlots": [
+          {
+            "startTime": "15:00",
+            "endTime": "16:00"
+          }
+        ]
+      },
+      {
+        "name": "Russian",
+        "preferredTimeSlots": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:00"
+          },
+          {
+            "startTime": "10:00",
+            "endTime": "11:00"
+          }
+        ]
+      },
+      {
+        "name": "English",
+        "preferredTimeSlots": [
+          {
+            "startTime": "11:00",
+            "endTime": "12:00"
+          },
+          {
+            "startTime": "12:00",
+            "endTime": "13:00"
+          }
+        ]
+      },
+      {
+        "name": "Biology",
+        "preferredTimeSlots": [
+          {
+            "startTime": "14:00",
+            "endTime": "15:00"
+          },
+          {
+            "startTime": "15:00",
+            "endTime": "16:00"
+          }
+        ]
+      },
+      {
+        "name": "Chemistry",
+        "preferredTimeSlots": []
+      }
+    ]
+  },
+  "Tuesday": {
+    "timeSlots": [
+      {
+        "startTime": "09:00",
+        "endTime": "16:00"
+      }
+    ],
+    "instructors": [
+      {
+        "name": "Anderson",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "11:00"
+          }
+        ],
+        "preferredCourses": [ "Math", "Physics" ]
+      },
+      {
+        "name": "Clark",
+        "availability": [
+          {
+            "startTime": "12:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": []
+      },
+      {
+        "name": "Davis",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "13:00"
+          }
+        ],
+        "preferredCourses": [ "Programming", "English", "Biology", "Chemistry" ]
+      },
+      {
+        "name": "Evans",
+        "availability": [
+          {
+            "startTime": "10:00",
+            "endTime": "14:00"
+          }
+        ],
+        "preferredCourses": [ "Geometry", "Physics" ]
+      }
+    ],
+    "courses": [
+      {
+        "name": "Math",
+        "preferredTimeSlots": [
+          {
+            "startTime": "10:00",
+            "endTime": "11:00"
+          }
+        ]
+      },
+      {
+        "name": "Geometry",
+        "preferredTimeSlots": [
+          {
+            "startTime": "13:00",
+            "endTime": "14:00"
+          }
+        ]
+      },
+      {
+        "name": "Physics",
+        "preferredTimeSlots": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:00"
+          }
+        ]
+      },
+      {
+        "name": "Programming",
+        "preferredTimeSlots": [
+          {
+            "startTime": "14:00",
+            "endTime": "15:00"
+          }
+        ]
+      },
+      {
+        "name": "English",
+        "preferredTimeSlots": [
+          {
+            "startTime": "12:00",
+            "endTime": "13:00"
+          }
+        ]
+      }
+    ]
+  },
+  "Wednesday": {
+    "timeSlots": [
+      {
+        "startTime": "09:00",
+        "endTime": "16:00"
+      }
+    ],
+    "instructors": [
+      {
+        "name": "Martin",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "13:00"
+          }
+        ],
+        "preferredCourses": [ "Math", "Physics" ]
+      },
+      {
+        "name": "Taylor",
+        "availability": [
+          {
+            "startTime": "11:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": [ "Geometry", "Chemistry" ]
+      },
+      {
+        "name": "Wilson",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "14:00"
+          }
+        ],
+        "preferredCourses": [ "Programming", "Biology", "English" ]
+      },
+      {
+        "name": "Garcia",
+        "availability": [
+          {
+            "startTime": "10:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": [ "Russian" ]
+      },
+      {
+        "name": "Robinson",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "11:00"
+          }
+        ],
+        "preferredCourses": [ "Physics", "Biology" ]
+      },
+      {
+        "name": "Lopez",
+        "availability": [
+          {
+            "startTime": "13:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": [ "Math", "English", "Geometry" ]
+      }
+    ],
+    "courses": [
+      {
+        "name": "Math",
+        "preferredTimeSlots": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:00"
+          },
+          {
+            "startTime": "11:00",
+            "endTime": "12:00"
+          }
+        ]
+      },
+      {
+        "name": "Geometry",
+        "preferredTimeSlots": [
+          {
+            "startTime": "12:00",
+            "endTime": "13:00"
+          },
+          {
+            "startTime": "14:00",
+            "endTime": "15:00"
+          }
+        ]
+      },
+      {
+        "name": "Physics",
+        "preferredTimeSlots": [
+          {
+            "startTime": "13:00",
+            "endTime": "14:00"
+          },
+          {
+            "startTime": "15:00",
+            "endTime": "16:00"
+          }
+        ]
+      },
+      {
+        "name": "Programming",
+        "preferredTimeSlots": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:00"
+          }
+        ]
+      },
+      {
+        "name": "Russian",
+        "preferredTimeSlots": []
+      },
+      {
+        "name": "English",
+        "preferredTimeSlots": [
+          {
+            "startTime": "10:00",
+            "endTime": "11:00"
+          }
+        ]
+      },
+      {
+        "name": "Biology",
+        "preferredTimeSlots": [
+          {
+            "startTime": "11:00",
+            "endTime": "12:00"
+          }
+        ]
+      },
+      {
+        "name": "Chemistry",
+        "preferredTimeSlots": []
+      }
+    ]
+  },
+  "Thursday": {
+    "timeSlots": [
+      {
+        "startTime": "09:00",
+        "endTime": "16:00"
+      }
+    ],
+    "instructors": [
+      {
+        "name": "Alice",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "12:00"
+          },
+          {
+            "startTime": "13:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": [ "Math", "Physics" ]
+      },
+      {
+        "name": "Bob",
+        "availability": [
+          {
+            "startTime": "10:00",
+            "endTime": "13:00"
+          },
+          {
+            "startTime": "14:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": []
+      },
+      {
+        "name": "Charlie",
+        "availability": [
+          {
+            "startTime": "11:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": [ "Chemistry", "Biology" ]
+      }
+    ],
+    "courses": [
+      {
+        "name": "Math",
+        "preferredTimeSlots": [
+          {
+            "startTime": "10:00",
+            "endTime": "11:00"
+          }
+        ]
+      },
+      {
+        "name": "Physics",
+        "preferredTimeSlots": [
+          {
+            "startTime": "14:00",
+            "endTime": "15:00"
+          }
+        ]
+      },
+      {
+        "name": "Chemistry",
+        "preferredTimeSlots": []
+      }
+    ]
+  },
+  "Friday": {
+    "timeSlots": [
+      {
+        "startTime": "09:00",
+        "endTime": "16:00"
+      }
+    ],
+    "instructors": [
+      {
+        "name": "Johnson",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "13:00"
+          },
+          {
+            "startTime": "14:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": [ "Math", "Programming", "Russian" ]
+      },
+      {
+        "name": "Brady",
+        "availability": [
+          {
+            "startTime": "10:00",
+            "endTime": "12:00"
+          },
+          {
+            "startTime": "13:00",
+            "endTime": "15:00"
+          }
+        ],
+        "preferredCourses": []
+      },
+      {
+        "name": "James",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:00"
+          },
+          {
+            "startTime": "11:00",
+            "endTime": "14:00"
+          },
+          {
+            "startTime": "15:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": [ "Math", "Russian", "Physics", "Chemistry", "English" ]
+      },
+      {
+        "name": "George",
+        "availability": [
+          {
+            "startTime": "12:00",
+            "endTime": "16:00"
+          }
+        ],
+        "preferredCourses": [ "Programming", "English" ]
+      },
+      {
+        "name": "Samantha",
+        "availability": [
+          {
+            "startTime": "09:00",
+            "endTime": "13:00"
+          }
+        ],
+        "preferredCourses": [ "Physics", "Russian" ]
+      },
+      {
+        "name": "Louisa",
+        "availability": [
+          {
+            "startTime": "10:00",
+            "endTime": "12:00"
+          },
+          {
+            "startTime": "13:00",
+            "endTime": "15:00"
+          }
+        ],
+        "preferredCourses": [ "Geometry", "English" ]
+      }
+    ],
+    "courses": [
+      {
+        "name": "Math",
+        "preferredTimeSlots": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:00"
+          },
+          {
+            "startTime": "10:00",
+            "endTime": "11:00"
+          },
+          {
+            "startTime": "11:00",
+            "endTime": "12:00"
+          },
+          {
+            "startTime": "12:00",
+            "endTime": "13:00"
+          }
+        ]
+      },
+      {
+        "name": "Geometry",
+        "preferredTimeSlots": []
+      },
+      {
+        "name": "Physics",
+        "preferredTimeSlots": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:00"
+          },
+          {
+            "startTime": "10:00",
+            "endTime": "11:00"
+          },
+          {
+            "startTime": "11:00",
+            "endTime": "12:00"
+          },
+          {
+            "startTime": "13:00",
+            "endTime": "14:00"
+          }
+        ]
+      },
+      {
+        "name": "Programming",
+        "preferredTimeSlots": [
+          {
+            "startTime": "14:00",
+            "endTime": "15:00"
+          },
+          {
+            "startTime": "15:00",
+            "endTime": "16:00"
+          }
+        ]
+      },
+      {
+        "name": "Russian",
+        "preferredTimeSlots": [
+          {
+            "startTime": "11:00",
+            "endTime": "12:00"
+          },
+          {
+            "startTime": "12:00",
+            "endTime": "13:00"
+          }
+        ]
+      },
+      {
+        "name": "English",
+        "preferredTimeSlots": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:00"
+          },
+          {
+            "startTime": "10:00",
+            "endTime": "11:00"
+          }
+        ]
+      },
+      {
+        "name": "Chemistry",
+        "preferredTimeSlots": [
+          {
+            "startTime": "13:00",
+            "endTime": "14:00"
+          },
+          {
+            "startTime": "14:00",
+            "endTime": "15:00"
+          },
+          {
+            "startTime": "15:00",
+            "endTime": "16:00"
+          }
+        ]
+      },
+      {
+        "name": "Biology",
+        "preferredTimeSlots": []
+      }
+    ]
+  }
+
+}
+
+
+
+
+
+
